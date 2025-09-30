@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "spacepixels_additions:white_marble_item"
+    },
+    "title": {
+      "text": "Just like ... Marble?"
+    },
+    "description": {
+      "text": "Craft Marble"
+    },
+    "background": "spacepixels_additions:textures/block/white_marble_block.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "reward": {
+      "experience": 100,
+      "recipes": [
+        "spacepixels_additions:red_marble_item"
+      ]
+    }
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+        "conditions": {
+            "items": [
+                {
+                "item": "spacepixels_additions:white_marble_item"
+                }
+            ]
+        }
+    }
+  }
+
+}

@@ -39,7 +39,7 @@ authors = "SpacePixel" #optional
 #displayTest="MATCH_VERSION" # MATCH_VERSION is the default if nothing is specified (#optional)
 
 # The description text for the mod (multi line!) (#mandatory)
-description = '''Additions For Servers by SpacePixel'''
+description = '''Additions For Servers by SpacePixel! This mod is still in early development and will be updated frequently. Please report any bugs you find on the GitHub issues page. This Version is intended for personal use only and should not be redistributed without permission from the author.'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies."spacepixels_additions"]] #optional
 # the modid of the dependency
