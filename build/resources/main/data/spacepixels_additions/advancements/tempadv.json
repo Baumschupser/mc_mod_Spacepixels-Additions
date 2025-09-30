@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond"
+    },
+    "title": {
+      "text": "Temporary Advancement"
+    },
+    "description": {
+      "text": "This is a temporary advancement for testing purposes."
+    },
+    "background": "minecraft:textures/block/diamond_block.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+        "conditions": {
+            "items": [
+                {
+                "item": "minecraft:spacepixels_additions:test_item"
+                }
+            ]
+        }
+    }
+  }
+}
