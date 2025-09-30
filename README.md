@@ -1,7 +1,6 @@
 Readme for GitHub!
 Modified: 2024-06-20
 # SpacePixel's Additions
-[![GitHub issues](https://img.shields.io/github/issues/SpacePixelMC/SpacePixelsAdditions)](
 This is a Minecraft mod that adds features for minecraft Servers by SpacePixel.
 # Update Log
     v0.1.0 - Initial private release.
@@ -13,6 +12,6 @@ This is a Minecraft mod that adds features for minecraft Servers by SpacePixel.
 2. Place the mod file in the `mods` folder of your Minecraft installation.
 3. Launch Minecraft with the appropriate mod loader (e.g., Forge or Fabric).
 # Known Issues
-- Creative Tab not showing Title.
-For minor bugs and suggestions, please open an issue on the GitHub repository.
+    1. [MAJOR] Creative Tab not showing Title. 
+- To see minor bugs and suggestions, please open an issue on the GitHub repository.
 
