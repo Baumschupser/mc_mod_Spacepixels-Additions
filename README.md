@@ -1,6 +1,7 @@
 Readme for GitHub!
 Modified: 2024-06-20
-# Project Title
+# SpacePixel's Additions
+[![GitHub issues](https://img.shields.io/github/issues/SpacePixelMC/SpacePixelsAdditions)](
 This is a Minecraft mod that adds features for minecraft Servers by SpacePixel.
 # Update Log
     v0.1.0 - Initial private release.
