@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-30 16:24:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-09-30 16:24:13 +0200",
+      "minecraft:old_growth_birch_forest": "2025-09-30 16:29:24 +0200"
+    },
+    "done": false
+  },
+  "spacepixels_additions:tempadv": {
+    "criteria": {
+      "requirement": "2025-09-30 16:29:10 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

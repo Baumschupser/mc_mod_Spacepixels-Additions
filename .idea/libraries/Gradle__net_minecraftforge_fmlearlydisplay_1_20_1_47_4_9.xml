@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraftforge:fmlearlydisplay:1.20.1-47.4.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.minecraftforge" artifactId="fmlearlydisplay" version="1.20.1-47.4.9" baseVersion="1.20.1-47.4.9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlearlydisplay/1.20.1-47.4.9/c3d19813cfb0c3829f29bfc6ffb70053d1d12322/fmlearlydisplay-1.20.1-47.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlearlydisplay/1.20.1-47.4.9/cb546993396844e217bb2d391a5285d44ed4291d/fmlearlydisplay-1.20.1-47.4.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

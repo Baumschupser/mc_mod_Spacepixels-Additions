@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spacepixels-additions.iml" filepath="$PROJECT_DIR$/.idea/modules/spacepixels-additions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spacepixels-additions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spacepixels-additions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spacepixels-additions.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spacepixels-additions.test.iml" />
+    </modules>
+  </component>
+</project>
