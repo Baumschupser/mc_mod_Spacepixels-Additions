@@ -7,6 +7,10 @@ This is a Minecraft mod that adds features for minecraft Servers by SpacePixel.
      - Added Red and White Marble Blocks.
      - Added Advancements for Marble Blocks.
      - Added Crafting Recipes for Marble Blocks.
+     - Added Creative Tab.
+     - [DEV] [TEMP] Added Test Item and Block for development purposes.
+# Features
+![NOT WRITTEN YET]
 # Installation
 1. Download the mod file from the releases section.
 2. Place the mod file in the `mods` folder of your Minecraft installation.
