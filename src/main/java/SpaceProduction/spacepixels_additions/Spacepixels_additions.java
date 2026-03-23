@@ -61,7 +61,7 @@ public class Spacepixels_additions {
     public static final RegistryObject<Item> TEST_ITEM = ITEMS.register("test_item", () -> new Item(new Item.Properties().food(new FoodProperties.Builder().alwaysEat().nutrition(1).saturationMod(2f).build())));
 
     // Creates a creative tab with the id "spacepixels_additions:example_tab" for the example item, that is placed after the combat tab
-    public static final RegistryObject<CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("tab", () -> CreativeModeTab.builder().withTabsBefore(CreativeModeTabs.COMBAT).icon(() -> RED_MARBLE_ITEM.get().getDefaultInstance()).displayItems((parameters, output) -> {
+    public static final RegistryObject<CreativeModeTab> SPACE_PIXELS_ADDITIONS = CREATIVE_MODE_TABS.register("space_pixels_additions", () -> CreativeModeTab.builder().withTabsBefore(CreativeModeTabs.COMBAT).icon(() -> RED_MARBLE_ITEM.get().getDefaultInstance()).displayItems((parameters, output) -> {
         output.accept(TEST_ITEM.get());
         output.accept(EXAMPLE_BLOCK_ITEM.get());// Add the example item to the tab. For your own tabs, this method is preferred over the event
         output.accept(RED_MARBLE_ITEM.get());
