@@ -10,7 +10,7 @@ This is a Minecraft mod that adds features for minecraft Servers by SpacePixel.
      - Added Creative Tab.
      - [DEV] [TEMP] Added Test Item and Block for development purposes.
 # Features
-![NOT WRITTEN YET]
+This Mod adds Features, mostly Blocks and Items (decorative), that i use on Servers to build.
 # Planned Featured
 We are planning to implement the following features:
 
