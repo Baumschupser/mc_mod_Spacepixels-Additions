@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: spacepixels_additions
+Specification-Vendor: SpacePixel
+Specification-Version: 1
+Implementation-Title: spacepixels-additions
+Implementation-Version: 0.1.0-alpha
+Implementation-Vendor: SpacePixel
+Implementation-Timestamp: 2026-03-24T14:29:17+0100
+
