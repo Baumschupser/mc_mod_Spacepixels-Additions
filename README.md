@@ -22,7 +22,7 @@ We are planning to implement the following features:
 # Installation
 1. Download the mod file from the releases section.
 2. Place the mod file in the `mods` folder of your Minecraft installation.
-3. Launch Minecraft with the appropriate mod loader (e.g., Forge or Fabric).
+3. Launch Minecraft with the mod loader (Forge).
 # Known Issues
     1. [MAJOR] Creative Tab not showing Title. 
 - To see minor bugs and suggestions, please open an issue on the GitHub repository.
