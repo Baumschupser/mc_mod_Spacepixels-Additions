@@ -26,5 +26,3 @@ We are planning to implement the following features:
 # Known Issues
     1. [MAJOR] Creative Tab not showing Title. 
 - To see minor bugs and suggestions, please open an issue on the GitHub repository.
-
-

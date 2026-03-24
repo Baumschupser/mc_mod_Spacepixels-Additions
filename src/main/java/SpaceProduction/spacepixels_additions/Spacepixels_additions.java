@@ -56,6 +56,9 @@ public class Spacepixels_additions {
     public static final RegistryObject<Block> WHITE_MARBLE = BLOCKS.register("white_marble_block", () -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_YELLOW).strength(1.5f).requiresCorrectToolForDrops()));
     public static final RegistryObject<Item> WHITE_MARBLE_ITEM = ITEMS.register("white_marble_item", () -> new BlockItem(WHITE_MARBLE.get(), new Item.Properties()));
 
+    public static final RegistryObject<Block> BLUE_MARBLE = BLOCKS.register("blue_marble_block", () -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_YELLOW).strength(1.5f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Item> BLUE_MARBLE_ITEM = ITEMS.register("blue_marble_item", () -> new BlockItem(BLUE_MARBLE.get(), new Item.Properties()));
+
 
     // Creates a new food item with the id "spacepixels_additions:example_id", nutrition 1 and saturation 2
     public static final RegistryObject<Item> TEST_ITEM = ITEMS.register("test_item", () -> new Item(new Item.Properties().food(new FoodProperties.Builder().alwaysEat().nutrition(1).saturationMod(2f).build())));
@@ -66,6 +69,7 @@ public class Spacepixels_additions {
         output.accept(EXAMPLE_BLOCK_ITEM.get());// Add the example item to the tab. For your own tabs, this method is preferred over the event
         output.accept(RED_MARBLE_ITEM.get());
         output.accept(WHITE_MARBLE_ITEM.get());
+        output.accept(BLUE_MARBLE_ITEM.get());
     }).build());
 
     public Spacepixels_additions() {
