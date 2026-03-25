@@ -59,17 +59,21 @@ public class Spacepixels_additions {
     public static final RegistryObject<Block> BLUE_MARBLE = BLOCKS.register("blue_marble_block", () -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_YELLOW).strength(1.5f).requiresCorrectToolForDrops()));
     public static final RegistryObject<Item> BLUE_MARBLE_ITEM = ITEMS.register("blue_marble_item", () -> new BlockItem(BLUE_MARBLE.get(), new Item.Properties()));
 
+    public static final RegistryObject<Block> PAPER_BLOCK = BLOCKS.register("paper_block", () -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_YELLOW).strength(1.5f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Item> PAPER_BLOCK_ITEM = ITEMS.register("paper_block_item", () -> new BlockItem(PAPER_BLOCK.get(), new Item.Properties()));
+
 
     // Creates a new food item with the id "spacepixels_additions:example_id", nutrition 1 and saturation 2
     public static final RegistryObject<Item> TEST_ITEM = ITEMS.register("test_item", () -> new Item(new Item.Properties().food(new FoodProperties.Builder().alwaysEat().nutrition(1).saturationMod(2f).build())));
 
     // Creates a creative tab with the id "spacepixels_additions:example_tab" for the example item, that is placed after the combat tab
     public static final RegistryObject<CreativeModeTab> SPACE_PIXELS_ADDITIONS = CREATIVE_MODE_TABS.register("space_pixels_additions", () -> CreativeModeTab.builder().withTabsBefore(CreativeModeTabs.COMBAT).icon(() -> RED_MARBLE_ITEM.get().getDefaultInstance()).displayItems((parameters, output) -> {
-        output.accept(TEST_ITEM.get());
-        output.accept(EXAMPLE_BLOCK_ITEM.get());// Add the example item to the tab. For your own tabs, this method is preferred over the event
+        //output.accept(TEST_ITEM.get());
+        //output.accept(EXAMPLE_BLOCK_ITEM.get());
         output.accept(RED_MARBLE_ITEM.get());
         output.accept(WHITE_MARBLE_ITEM.get());
         output.accept(BLUE_MARBLE_ITEM.get());
+        output.accept(PAPER_BLOCK_ITEM.get());
     }).build());
 
     public Spacepixels_additions() {

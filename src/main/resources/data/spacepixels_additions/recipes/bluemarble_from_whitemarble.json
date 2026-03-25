@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "#&#",
+    "###"
+  ],
+  "key": {
+    "&": {
+        "item": "minecraft:blue_dye"
+    },
+    "#": {
+      "item": "spacepixels_additions:white_marble_item"
+    }
+  },
+  "result": {
+    "item": "spacepixels_additions:blue_marble_item",
+    "count": 8
+  }
+}

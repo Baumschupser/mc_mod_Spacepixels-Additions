@@ -4,8 +4,9 @@
   "block.spacepixels_additions.red_marble_block": "Red Marble",
   "block.spacepixels_additions.white_marble_block": "White Marble",
   "block.spacepixels_additions.blue_marble_block": "Blue Marble",
+  "block.spacepixels_additions.paper_block": "Block of Paper",
 
 
 
-  "creativetab.space_pixels_additions": "SpacePixels Additions"
+  "creativetab.spacepixels_additions.space_pixels_additions": "SpacePixels Additions"
 }
