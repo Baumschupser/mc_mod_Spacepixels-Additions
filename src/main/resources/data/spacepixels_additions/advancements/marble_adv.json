@@ -9,7 +9,7 @@
     "description": {
       "text": "Craft Marble"
     },
-    "background": "spacepixels_additions:textures/block/white_marble_block.png",
+    "background": "spacepixels_additions:textures/block/white_marble.png",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
