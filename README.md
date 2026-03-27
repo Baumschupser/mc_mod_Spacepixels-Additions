@@ -9,7 +9,7 @@ latest Release:
 	 - Added Blue Marble Blocks
 	 - Added Japanese Paper Block
 	 - Fixed Advancements Tab not showing the Background
-	 - [DEV] Removed the temporary Test Item
+	 - [DEV] Removed the temporary Test Item and Block from the Creative Tab
 	 - Fixed Internal Bugs
 
  older Release:
