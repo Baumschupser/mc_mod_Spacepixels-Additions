@@ -12,7 +12,7 @@ latest Release:
 
  older Release:
 
-    v0.1.0-alpha & v0.1.0-beta
+    v0.1.0-alpha
      - Added Red and White Marble Blocks.
      - Added Advancements for Marble Blocks.
      - Added Crafting Recipes for Marble Blocks.
