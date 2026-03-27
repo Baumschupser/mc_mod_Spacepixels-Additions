@@ -3,7 +3,16 @@ Modified: 2024-06-20
 # SpacePixel's Additions
 This is a Minecraft mod that adds features for minecraft Servers by SpacePixel.
 # Update Log
-    v0.1.0 - Initial private release.
+newest Release:
+
+	v0.2.0-alpha
+	 - Added Blue Marble Blocks
+	 - Added Japanese Paper Block
+	 - Removed the temporary Test Item
+
+ older Releases:
+
+    v0.1.0-alpha & v0.1.0-beta
      - Added Red and White Marble Blocks.
      - Added Advancements for Marble Blocks.
      - Added Crafting Recipes for Marble Blocks.
