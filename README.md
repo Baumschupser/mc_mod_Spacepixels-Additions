@@ -8,7 +8,9 @@ latest Release:
 	v0.2.0-alpha
 	 - Added Blue Marble Blocks
 	 - Added Japanese Paper Block
+	 - Fixed Advancements Tab not showing the Background
 	 - [DEV] Removed the temporary Test Item
+	 - Fixed Internal Bugs
 
  older Release:
 
