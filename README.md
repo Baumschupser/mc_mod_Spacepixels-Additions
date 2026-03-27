@@ -8,7 +8,7 @@ newest Release:
 	v0.2.0-alpha
 	 - Added Blue Marble Blocks
 	 - Added Japanese Paper Block
-	 - Removed the temporary Test Item
+	 - [DEV] Removed the temporary Test Item
 
  older Releases:
 
