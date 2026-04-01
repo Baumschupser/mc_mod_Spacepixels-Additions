@@ -5,6 +5,11 @@ This is a Minecraft mod that adds features for minecraft Servers by SpacePixel.
 # Update Log
 latest Release:
 
+    v0.2.0-beta
+     - Official BETA Release
+     - Renamed File to "1.20.1--x.x.x-xxx" for version Information
+     - Fixed Internal Issue (small)
+
 	v0.2.0-alpha
 	 - Added Blue Marble Blocks
 	 - Added Japanese Paper Block
